@@ -1,6 +1,8 @@
+<!-- #region -->
 # Phase3project_H1N1_vaccine_predict
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/silviagworit/Desktop/images.jpg?version%3D1714502309504)
+![Genre vs Rating Relationship](https://github.com/EdmundNyaribo/dsc-phase-1-project-movie-data-analysis/blob/master/images/H1N1.jpeg)
+ 
 
 ## Business Overview
 Vaccination, is a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity" - the indirect protection from an infectious disease.
@@ -18,7 +20,7 @@ This information derived from the model will help the health sector to make info
 ## OBJECTIVE
 
 1. To predict the acceptance rate of the H1N1 vaccine
-
+<!-- #endregion -->
 
 # DATA UNDERSTANDING
 We are provided with three datasets which were sourced from the DrivenData website;specifically the 'H1N1 and Seasonal Flu Vaccines' Competition.
