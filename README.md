@@ -1,7 +1,7 @@
 <!-- #region -->
 # Phase3project_H1N1_vaccine_predict
 
-![H1N1_Vaccine_Image](ges/H1N1.jpeg)
+![H1N1_Vaccine_Image](https://github.com/EdmundNyaribo/Phase3project_H1N1_vaccine_predict/blob/main/images/H1N1.jpeg)
 
 
 ## Business Overview
