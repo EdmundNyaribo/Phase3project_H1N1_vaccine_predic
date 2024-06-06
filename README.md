@@ -1,8 +1,8 @@
 <!-- #region -->
 # Phase3project_H1N1_vaccine_predict
 
-![H1N1_Vaccine_Image](https://github.com/EdmundNyaribo/Phase3project_H1N1_vaccine_predict/blob/master/images/H1N1.jpeg)
- 
+![H1N1_Vaccine_Image](ges/H1N1.jpeg)
+
 
 ## Business Overview
 Vaccination, is a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity" - the indirect protection from an infectious disease.
