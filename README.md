@@ -48,10 +48,20 @@ These models also have been fine-tuned to have better results
 # EVALUATION 
 The evaluation metrics used to measure the performance of the models are
 * Accuracy - How well did the model predict the target variable classes
-* precision
-* Recall
+* precision - ratio of the true positives over the total predicted positives
+* Recall - Ratio of the True Positives over the total actual positives
 * F1-score
-* ROC_AUC
+* ROC_AUC - Area under the curve
 
 ## Conclusion
 From the evaluation step above we  can derive the conclusion that The Random Forest Classifier having an overall accuracy of 80% proved to be the best model. This means that the model's output is accurate by 80% based on the used features.
+
+	precision => 54%
+    recall => 70%
+    f1-score => 61%
+    accuracy => 80%
+    
+
+```python
+
+```
