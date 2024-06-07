@@ -56,9 +56,9 @@ The evaluation metrics used to measure the performance of the models are
 ## Conclusion
 From the evaluation step above we  can derive the conclusion that The Random Forest Classifier having an overall accuracy of 80% proved to be the best model. This means that the model's output is accurate by 80% based on the used features.
 
-	precision => 54%
-    recall => 70%
-    f1-score => 61%
+	precision => 72%
+    recall => 76%
+    f1-score => 74%
     accuracy => 80%
     
 
